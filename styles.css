@@ -1,0 +1,8 @@
+.right-side {
+    display: flex;
+    justify-content: end;
+    width: 1190px;
+}
+.view {
+    align-self: center;
+}
